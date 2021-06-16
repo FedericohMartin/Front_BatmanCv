@@ -13,7 +13,8 @@ img {
 
 /*-----------body------------*/
 main{
-    
+    margin-top: 4.5%;
+    margin-bottom: 4.5%;
 }
 h1 {
     background: #C4C4C4;
@@ -26,6 +27,7 @@ h1 {
     letter-spacing: 0.3em;
     text-align: center;
     margin: 0;
+    padding: 1% 0;  
 }
 
 h2 {

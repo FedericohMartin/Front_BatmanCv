@@ -1,6 +1,7 @@
 header {
     display: flex;
     background-color: #E6E6E6;
+    flex-direction: column;
 }
 
 img {

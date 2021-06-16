@@ -34,31 +34,37 @@ h2 {
     font-weight: bold;
     width: 70%;
 }
-li{
+
+li {
     font-family: Times New Roman;
     font-size: 15px;
 }
+
 span p {
     font-family: Times New Roman;
     font-style: normal;
     font-size: 15px;
 }
-.datosPersonales{
+
+.datosPersonales {
     font-family: Times New Roman;
     font-style: italic;
     font-weight: bold;
     font-size: 15px;
     line-height: 84.69%;
 }
-.fechas{
+
+.fechas {
     font-family: Times New Roman;
     font-style: normal;
     font-weight: bold;
     font-size: 15px;
 }
-article{
+
+article {
     display: flex;
 }
+
 
 /*-----------footer------------*/
 
@@ -67,6 +73,7 @@ footer {
     display: flex;
     height: 37px;
     justify-content: center;
+    align-items: center;
     gap: 26px;
 }
 
@@ -77,5 +84,4 @@ footer {
 
 .title_footer {
     margin: 0;
-    padding: 1%;
 }

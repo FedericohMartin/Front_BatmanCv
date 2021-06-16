@@ -1,8 +1,18 @@
 header{
     display: flex;
     justify-content: center;
+    flex-direction: column;
     
 }
+img{
+    position: absolute;
+    height: 147px;
+    width: 100px;
+    left: 670px;
+    top: 21px;
+}
+
+/*-----------body------------*/
 h1{
     background: #C4C4C4;
     color: #005677;
@@ -22,3 +32,11 @@ h2{
     font-weight: bold;
     width: 70%;
 }
+
+/*-----------footer------------*/
+footer{
+    background: #005677
+}
+
+
+

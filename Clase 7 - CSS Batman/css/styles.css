@@ -1,5 +1,6 @@
 header {
     display: flex;
+    background-color: #E6E6E6;
 }
 
 img {
@@ -21,6 +22,7 @@ h1 {
     line-height: 84.69%;
     letter-spacing: 0.3em;
     text-align: center;
+    margin: 0;
 }
 
 h2 {

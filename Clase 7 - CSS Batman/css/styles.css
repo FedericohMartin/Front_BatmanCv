@@ -1,11 +1,10 @@
 header{
     display: flex;
-    justify-content: center;
     flex-direction: column;
-    
+    justify-content: center;  
+    align-items: center;
 }
 img{
-    position: absolute;
     height: 147px;
     width: 100px;
     left: 670px;

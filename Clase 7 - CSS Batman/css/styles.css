@@ -12,7 +12,9 @@ img {
 
 
 /*-----------body------------*/
-
+main{
+    
+}
 h1 {
     background: #C4C4C4;
     color: #005677;
@@ -33,6 +35,8 @@ h2 {
     font-style: normal;
     font-weight: bold;
     width: 70%;
+    font-size: 20px;
+    padding-left: 0.5%;
 }
 li{
     font-family: Times New Roman;
@@ -56,8 +60,16 @@ span p {
     font-weight: bold;
     font-size: 15px;
 }
+section{
+    padding-left: 24%;
+}
 article{
     display: flex;
+    align-items:baseline;
+    padding-left: 2%;
+}
+p{
+    text-align: left;
 }
 
 /*-----------footer------------*/
